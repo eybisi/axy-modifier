@@ -10,3 +10,8 @@ Firefox plugin for axy.party website.
 - Click `This Firefox`
 - Click `Load Temprorary Add-on`
 - Select manifest.json file
+
+# X
+
+wanna join hunting ? discord: eybisi#6504
+
