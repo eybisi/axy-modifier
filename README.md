@@ -6,10 +6,15 @@ Firefox plugin for axy.party website.
 
 # Installation
 
+## from source
+
 - open about:debugging
 - Click `This Firefox`
 - Click `Load Temprorary Add-on`
 - Select manifest.json file
+
+## from addon page:
+https://addons.mozilla.org/en-US/firefox/addon/axy-modifier/
 
 # X
 
