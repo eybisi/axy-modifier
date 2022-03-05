@@ -1,6 +1,6 @@
 # axy-modifier
 
-Firefox plugin for axy.party website.
+Firefox plugin for [axy.party](https://axy.party) website.
 - Adds redirection information to X icon
 - Adds additional scripts (console.logs, defined functions) as text to body
 
